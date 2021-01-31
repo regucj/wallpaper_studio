@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93926242889",
+    "firebase_url": "https://wallpaper-studio-fdc0c.firebaseio.com",
+    "project_id": "wallpaper-studio-fdc0c",
+    "storage_bucket": "wallpaper-studio-fdc0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93926242889:android:b51b759e8271bc03489d98",
+        "android_client_info": {
+          "package_name": "com.fmdwallpaper.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93926242889-vc44oehlsclgjeh12ocmmdtonhml9se9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvA4yHXMcOHZHskR3hXc3m8H9DMkuZXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93926242889-vc44oehlsclgjeh12ocmmdtonhml9se9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

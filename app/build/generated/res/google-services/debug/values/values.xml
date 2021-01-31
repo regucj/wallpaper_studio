@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">93926242889-vc44oehlsclgjeh12ocmmdtonhml9se9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wallpaper-studio-fdc0c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">93926242889</string>
+    <string name="google_api_key" translatable="false">AIzaSyBWvA4yHXMcOHZHskR3hXc3m8H9DMkuZXQ</string>
+    <string name="google_app_id" translatable="false">1:93926242889:android:b51b759e8271bc03489d98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBWvA4yHXMcOHZHskR3hXc3m8H9DMkuZXQ</string>
+    <string name="google_storage_bucket" translatable="false">wallpaper-studio-fdc0c.appspot.com</string>
+    <string name="project_id" translatable="false">wallpaper-studio-fdc0c</string>
+</resources>

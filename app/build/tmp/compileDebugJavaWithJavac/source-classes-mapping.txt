@@ -1,0 +1,6 @@
+com/fmdwallpaper/myapplication/BuildConfig.java
+ com.fmdwallpaper.myapplication.BuildConfig
+com/fmdwallpaper/myapplication/DataBindingTriggerClass.java
+ com.fmdwallpaper.myapplication.DataBindingTriggerClass
+com/fmdwallpaper/myapplication/databinding/FragmentHomeBinding.java
+ com.fmdwallpaper.myapplication.databinding.FragmentHomeBinding
